@@ -2,12 +2,8 @@
 
 ## 文档
 
-- [中文文档](https://github.com/pinggod/hexo-theme-apollo/blob/master/doc%2Fdoc-zh.md)
-- [Document](https://github.com/pinggod/hexo-theme-apollo/blob/master/doc%2Fdoc-en.md)
-
-## 贡献
-
-该项目不再接受添加新特性、功能的 pull request，所有创造性的想法请 fork 该项目之后自由发挥。
+- [中文文档](https://github.com/YanWQ-monad/hexo-theme-apollo/blob/master/doc/doc-zh.md)
+- [Document](https://github.com/YanWQ-monad/hexo-theme-apollo/blob/master/doc/doc-en.md)
 
 ## 安装
 
@@ -16,7 +12,7 @@ hexo init Blog
 cd Blog 
 npm install
 npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive
-git clone https://github.com/pinggod/hexo-theme-apollo.git themes/apollo
+git clone https://github.com/YanWQ-monad/hexo-theme-apollo.git themes/apollo
 ```
 
 ## 启用
@@ -45,7 +41,3 @@ git pull
 ## License
 
 MIT
-
-## Gatsby Theme
-
-如果你正在使用 Gatsbyjs 建站，欢迎使用专为 Gatsbyjs 开发的主题 [gatsby-theme-wink](https://github.com/pinggod/gatsby-theme-wink) 😘
