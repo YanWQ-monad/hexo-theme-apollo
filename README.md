@@ -11,7 +11,7 @@
 hexo init Blog 
 cd Blog 
 npm install
-npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive
+npm install --save hexo-renderer-pug hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive
 git clone https://github.com/YanWQ-monad/hexo-theme-apollo.git themes/apollo
 ```
 
