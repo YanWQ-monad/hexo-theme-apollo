@@ -18,3 +18,8 @@ gtm:
 
 # Copyright Infomation
 startyear: 2017
+
+# 3rd resources
+resources:
+  js:  # accept array, will be loaded with 'defer'
+  css: # accept array
