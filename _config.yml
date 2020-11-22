@@ -1,8 +1,8 @@
 menu:
-    Blog: /
-    Archive: /archives/
-    GitHub: https://github.com/YanWQ-monad
-    Rss: /atom.xml
+  Blog: /
+  Archive: /archives/
+  GitHub: https://github.com/YanWQ-monad
+  Rss: /atom.xml
 
 favicon: /images/favicon.png
 logo: /images/favicon.png
@@ -14,7 +14,7 @@ duoshuo:
 
 # Analytics
 # google-analytics:
-gtm: GTM-PP344KH
+gtm:
 
 # Copyright Infomation
 startyear: 2017
