@@ -23,7 +23,8 @@
   "homepage": "https://github.com/YanWQ-monad/hexo-theme-apollo#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^7.0.1",
-    "gulp-sass": "^4.1.0"
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.53.0"
   }
 }
