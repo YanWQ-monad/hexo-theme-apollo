@@ -2,7 +2,6 @@ menu:
   Blog: /
   Archive: /archives/
   GitHub: https://github.com/YanWQ-monad
-  Rss: /atom.xml
 
 favicon: /images/favicon.png
 logo: /images/favicon.png
